@@ -1,7 +1,7 @@
 
 # GROUP MEMBERS
 * Kennedy Connors - UCID: 30089453
-* Regan Kane - UCID:
+* Regan Kane - UCID: 30094073
 * Manaan Hamidu - UCID: 
 
 ## What is assignment 1 about?
